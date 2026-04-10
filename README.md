@@ -77,7 +77,9 @@ luxun-skill/
 ## 快速使用
 
 1. 阅读 `SKILL.md` 了解核心思维框架
-2. 查阅 `references/research/` 下的参考资料深化理解
+2. ```text
+   npx skills add TOPDzZzz/luxun-thinking-skill
+   ```
 3. 使用主题触发：`鲁迅`、`社会心理`、`审辨`、`现实观察`、`行动判断`、`国民性`、`韧性`
 
 ## 适用场景
